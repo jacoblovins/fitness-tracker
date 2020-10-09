@@ -2,8 +2,7 @@ const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
 // map to the workout collection and define the type of documents in it
-const WorkoutSchema = new Schema(
-{
+const WorkoutSchema = new Schema({
     day:{
         type: Date,
         default: Date.now
