@@ -20,6 +20,7 @@ const WorkoutSchema = new Schema({
     ]
 },
 {
+    // Schema optopn to include virtuals in res.json() in our routes
     toJSON:{
         virtuals:true
     }
