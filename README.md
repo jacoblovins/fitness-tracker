@@ -1,16 +1,16 @@
-# Fitness Tracker
+# Workout Tracker
       
     
 ![License](https://img.shields.io/badge/License-APACHE%202.0-blue.svg)
 
 ## Description
 
-This fitness tracker application lets you keep track of the exercises you have accomplished over the course of a week. By using a Mongodb database and Mongoose, the user is able to add different types of exercises, update them, and keep track of their exercises by means of clean, interactive charts and forms. This app utilizes MongoDB, Mongoose, Express, Express router, Node.js, and more.
+This workout tracker application lets you keep track of the exercises you have accomplished over the course of a week. By using a Mongodb database and Mongoose, the user is able to add different types of exercises, update them, and keep track of their exercises by means of clean, interactive charts and forms. This app utilizes MongoDB, Mongoose, Express, Express router, Node.js, and more.
 
 
-​![Fitness Tracker](public/images/home.png)
-​![Fitness Tracker](public/images/charts.png)
-​![Fitness Tracker](public/images/Resistance.png)
+​![Workout Tracker](public/images/home.png)
+​![Workout Tracker](public/images/charts.png)
+​![Workout Tracker](public/images/Resistance.png)
 
 
 
