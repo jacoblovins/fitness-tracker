@@ -7,6 +7,8 @@
 
 This fitness tracker application lets you keep track of the exercises you have accomplished over the course of a week. By using a Mongodb database and Mongoose, the user is able to add different types of exercises, update them, and keep track of their exercises by means of clean, interactive charts and forms. This app utilizes MongoDB, Mongoose, Express, Express router, Node.js, and more.
 
+## [Click Here to check it out!](https://jacoblovins.github.io/weather_dashboard/)
+
 
 ​![Fitness Tracker](public/images/home.png)
 ​![Fitness Tracker](public/images/charts.png)
