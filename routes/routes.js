@@ -1,6 +1,6 @@
 const router = require("express").Router();
 const path = require("path");
-const Workout = require("../models/workout.js");
+const Workout = require("../models/Workout.js");
 
 // Static HTML routes for each of the three pages
 
