@@ -2,20 +2,6 @@ const router = require("express").Router();
 const path = require("path");
 const Workout = require("../models/Workout.js");
 
-// Static HTML routes for each of the three pages
-
-router.get("/",(req,res)=>{
-  res.sendFile(path.join(__dirname,"../public/index.html"));
-});
-
-router.get("/exercise",(req,res)=>{
-  res.sendFile(path.join(__dirname,"../public/exercise.html"));
-});
-
-router.get("/stats",(req,res)=>{
-  res.sendFile(path.join(__dirname,"../public/stats.html"));
-});
-
 // API routes for mongoose interaction 
 
 router.get("/api/workouts", (req, res) => {
